@@ -2,7 +2,7 @@
 
 
 ### Program:
-- [ ] Free Mental Health Counseling Program
+- [x] Free Mental Health Counseling Program
 
 ### New Menu 1
 - [ ] JDF RESEARCH CENTER
