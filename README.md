@@ -8,11 +8,11 @@
 - [x] Free Mental Health Counseling Program
 
 ### New Menu 1
-- [ ] JDF RESEARCH CENTER
+- [x] JDF RESEARCH CENTER
 - [ ] Add PDF of Research in this page ( No. Of Pdf :2 )
 
 ### New Menu 2
-- [ ] JDF Social Entrepreneur Angel Network!
+- [x] JDF Social Entrepreneur Angel Network!
 
 ### sidebar
 - [ ] Re-arrange Sidebar menu
