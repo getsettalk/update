@@ -18,4 +18,5 @@
 - [ ] Re-arrange Sidebar menu
 
 ## Add Images at JDF Farmer Trainig Program
+- FTP-program : Images Changes made
 - [ ]  ![image](https://github.com/getsettalk/update-2.1.0-/assets/49394996/35808ea1-44fa-4502-9cfd-540463fa519f)
