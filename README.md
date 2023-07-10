@@ -40,4 +40,4 @@
 - [x] fix header active menu
 
 ## Do Correction of Spelling :
-- [x] name of : Gyandayini Vidyapith
+- [x] name of : Gyandayini Vidyapith -- Correction Made 8 times in a page
