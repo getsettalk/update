@@ -6,7 +6,7 @@
 
 ## Program:
 - [x] Free Mental Health Counseling Program <span style="color:green;">&#10004;</span>
-- [x] <img src="https://user-images.githubusercontent.com/49394996/252195838-b16e5574-971b-46be-9377-9fbd2f4a6767.png" width=40">
+- [x]  <img src="https://user-images.githubusercontent.com/49394996/252195838-b16e5574-971b-46be-9377-9fbd2f4a6767.png" width="40" > <span style="color:green;">&#10004;</span>
 
 
 
