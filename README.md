@@ -39,6 +39,7 @@
 ## Modify Footer And Header
 - [x] add new links in usefull link <span style="color:green;">&#10004;</span> 
 - [x] fix header active menu <span style="color:green;">&#10004;</span> 
+- [x] Link Fixed <span style="color:green;">&#10004;</span> 
 
 ## Do Correction of Spelling :
-- [x] name of : Gyandayini Vidyapith -- Correction Made 11 times in a page (gv_school,sidebar,index page) <span style="color:green;">&#10004;</span> 
+- [x] name of : Gyandayini Vidyapith -- Correction Made 11 times in a page (gv_school,sidebar,index page) <span style="color:green;">&#10004;</span>
