@@ -30,14 +30,15 @@
 
 
   ## Add every our work section page :
-- [x] Agri & rec add
+- [x] Agri & rec add <span style="color:green;">&#10004;</span> 
 
 ## At index page :
- - [x] add Short data of Research and Network ( between )
+ - [x] add Short data of Research and Network ( between ) <span style="color:green;">&#10004;</span> 
+ - [x] Made Multipal Changes  <span style="color:green;">&#10004;</span> 
 
 ## Modify Footer And Header
-- [x] add new links in usefull link
-- [x] fix header active menu
+- [x] add new links in usefull link <span style="color:green;">&#10004;</span> 
+- [x] fix header active menu <span style="color:green;">&#10004;</span> 
 
 ## Do Correction of Spelling :
-- [x] name of : Gyandayini Vidyapith -- Correction Made 11 times in a page (gv_school,sidebar,index page)
+- [x] name of : Gyandayini Vidyapith -- Correction Made 11 times in a page (gv_school,sidebar,index page) <span style="color:green;">&#10004;</span> 
