@@ -30,7 +30,14 @@
 
 
   ## Add every our work section page :
-- [ ] Agri & rec add
+- [x] Agri & rec add
 
 ## At index page :
- - [ ] add Short data of Research and Network ( between )
+ - [x] add Short data of Research and Network ( between )
+
+## Modify Footer And Header
+- [x] add new links in usefull link
+- [x] fix header active menu
+
+## Do Correction of Spelling :
+- [x] name of : Gyandayini Vidyapith
