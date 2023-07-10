@@ -27,4 +27,10 @@
 - FTP-program : Images Changes made <span style="color:green;">&#10004;</span> 
 
 - [x] <img src="https://user-images.githubusercontent.com/49394996/251885155-35808ea1-44fa-4502-9cfd-540463fa519f.png" alt="alt text" width="60" height="60">  <span style="color:green;">&#10004;</span> 
-  
+
+
+  ### Add every our work section page :
+- [] Agri & rec add
+
+### At index page :
+ - [] add Short data of Research and Network ( between )
