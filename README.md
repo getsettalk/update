@@ -43,3 +43,6 @@
 
 ## Do Correction of Spelling :
 - [x] name of : Gyandayini Vidyapith -- Correction Made 11 times in a page (gv_school,sidebar,index page) <span style="color:green;">&#10004;</span>
+
+# Add new Page:
+- [x] Create a new page under More Menu -> Scholarship -> than add images, write content, create link , fixed navigation <span style="color:green;">&#10004;</span> 
