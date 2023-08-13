@@ -38,6 +38,16 @@ Create Page    |
  Integrate Payment Getway | 
  Test Getway | 
  Use Encryption (CSRF) |  
+ 
+ Admin Module| Update Logs
+ ------------ | ----------
+ Create New Menu And Page | 
+ Write Styles | 
+ Create Table | 
+ Display Efficient Data | 
+ Update Data | 
+ Validation | Code 
+ 
 
 ### Page 4
  - [ ] JDF CLEAN GANGA PROJECT (Project)
