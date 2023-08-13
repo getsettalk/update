@@ -43,6 +43,7 @@ Create Page    |
      * Our Approach:
      * Your Role in the Journey:
      * Impact and Progress:
+   * Add Image Slider Mannualy (10 )
 
        
 ### Rest Update 5
