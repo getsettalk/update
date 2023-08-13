@@ -49,7 +49,22 @@ Create Page    |
    * Content
        * Add Image and Content of Advisory Committee (5 )
           * Write Custome Styles for Advisory Committee
-        * Add Image And Data :
-           * State Coordinator
-   
+        * Add Image And Data State Coordinator (5)
+           * Write Custome Styles for This
+
+### Rest Update 6
+ * CSR NUMBER ON FOTTER
+    * Add CSR Number on footer
+       * Set Styles
+       * Make Responsive for (Mobile & Laptop )
+
+### Rest Update 7 
+ * Fix Header Logo
+   * Create Responsive for (sm, md, xl) devices
+
+### Rest Update 8 
+ * Add New Adderess
+
+### Rest Update 9 
+   * Remove Footer Content ( Managed By )
    
