@@ -7,5 +7,37 @@
 
 https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e87452eb462fae094e8d5ea236fe
 
- ## All going update list :
- 
+# All going update list :
+ ### Page 1
+ - [ ] Create CSR Page:
+
+### Page 2
+ - [ ] Support Page
+       
+    Module   | Update logs
+   ------------- | -------------
+   Create Page   | 
+   Write Content | Content Cell
+   Add Image (if Need) |
+   Customize Styles (Content), Write New Media Query With Js |
+
+
+### Page 3  
+ - [ ] Donation Page :
+
+Module  | Update Logs
+------------- | -------------
+Create Page    | 
+ Make Forms (to get data )  | Content Cell
+ Write Content |  
+ Integrate Payment Getway | 
+ Test Getway | 
+ Use Encryption (CSRF) |  
+
+### Page 4
+ - [ ] JDF CLEAN GANGA PROJECT (Project)
+
+       
+       
+   
+   
