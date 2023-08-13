@@ -10,6 +10,11 @@ https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e8745
 # All going update list :
  ### Page 1
  - [ ] Create CSR Page:
+   * All Content:
+       * Our Approach:
+       * IMPACT AERAS
+       * How You Can Collaborate
+
 
 ### Page 2
  - [ ] Support Page
