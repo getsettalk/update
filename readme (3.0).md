@@ -55,12 +55,12 @@ Create Page    |
 ### Page 4
  - [ ] JDF CLEAN GANGA PROJECT (Project)
 
-   * All Content
-     * Our Vision:
-     * Project Objectives:
-     * Our Approach:
-     * Your Role in the Journey:
-     * Impact and Progress:
+ - [x] * All Content <span style="color:green;">&#10004;</span>
+     * Our Vision: <span style="color:green;">&#10004;</span>
+     * Project Objectives: <span style="color:green;">&#10004;</span>
+     * Our Approach: <span style="color:green;">&#10004;</span>
+     * Your Role in the Journey: <span style="color:green;">&#10004;</span>
+     * Impact and Progress: <span style="color:green;">&#10004;</span>
    * Add Image Slider Mannualy (10 )
 
        
