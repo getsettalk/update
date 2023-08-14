@@ -85,5 +85,5 @@ Create Page    |
  * Add New Adderess
 
 ### Rest Update 9 
-   * Remove Footer Content ( Managed By )
+  - [x] * Remove Footer Content ( Managed By ) <span style="color:green;">&#10004;</span>
    
