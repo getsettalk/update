@@ -26,6 +26,8 @@ https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e8745
    Write Content | Content Cell
    Add Image (if Need) |
    Customize Styles (Content), Write New Media Query With Js |
+   Add at index Page | little Content (15 Words) 
+ 
 
 
 ### Page 3  
