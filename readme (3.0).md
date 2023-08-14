@@ -80,7 +80,9 @@ Create Page    |
 ### Rest Update 7 
  * Fix Header Logo <span style="color:green;">&#10004;</span>
    * Create Responsive for (sm, md, xl) devices <span style="color:green;">&#10004;</span>
+<img src="https://github.com/getsettalk/update/assets/49394996/c812b0d9-2efd-49f2-98aa-6cc04a94c604" width="100" />
 
+ 
 ### Rest Update 8 
  * Add New Adderess
 
