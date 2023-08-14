@@ -10,10 +10,10 @@ https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e8745
 # All going update list :
  ### Page 1
  - [x] Create CSR Page:
-   * All Content:
-       * Our Approach:
-       * IMPACT AERAS
-       * How You Can Collaborate
+   * All Content: <span style="color:green;">&#10004;</span>
+       * Our Approach: <span style="color:green;">&#10004;</span>
+       * IMPACT AERAS <span style="color:green;">&#10004;</span>
+       * How You Can Collaborate <span style="color:green;">&#10004;</span>
        * add also index page
 
 
@@ -72,14 +72,14 @@ Create Page    |
            * Write Custome Styles for This
 
 ### Rest Update 6
- * CSR NUMBER ON FOTTER
-    * Add CSR Number on footer
-       * Set Styles
-       * Make Responsive for (Mobile & Laptop )
+- [x] * CSR NUMBER ON FOTTER
+    * Add CSR Number on footer <span style="color:green;">&#10004;</span>
+       * Set Styles <span style="color:green;">&#10004;</span>
+       * Make Responsive for (Mobile & Laptop ) <span style="color:green;">&#10004;</span>
 
 ### Rest Update 7 
- * Fix Header Logo
-   * Create Responsive for (sm, md, xl) devices
+ * Fix Header Logo <span style="color:green;">&#10004;</span>
+   * Create Responsive for (sm, md, xl) devices <span style="color:green;">&#10004;</span>
 
 ### Rest Update 8 
  * Add New Adderess
