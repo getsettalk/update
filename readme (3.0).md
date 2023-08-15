@@ -92,4 +92,4 @@ Create Page    |
   - [x] * Remove Footer Content ( Managed By ) <span style="color:green;">&#10004;</span>
 
 ### Rest update 10 :
-- [x] add navigation to home with logo
+- [x] add navigation to home with logo <span style="color:green;">&#10004;</span>
