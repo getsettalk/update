@@ -83,10 +83,13 @@ Create Page    |
    * Create Responsive for (sm, md, xl) devices <span style="color:green;">&#10004;</span>
 <img src="https://github.com/getsettalk/update/assets/49394996/c812b0d9-2efd-49f2-98aa-6cc04a94c604" width="100" />
 
+
  
 ### Rest Update 8 
  * Add New Adderess
 
 ### Rest Update 9 
   - [x] * Remove Footer Content ( Managed By ) <span style="color:green;">&#10004;</span>
-   
+
+### Rest update 10 :
+- [x] add navigation to home with logo
