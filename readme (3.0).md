@@ -96,3 +96,6 @@ Create Page    |
 
 ### Rest Update 11 :
  - [ ] Change SDG (home page ) to graphix
+
+### Rest Update 12 :
+ - [x] Fixed Most UI in index page
