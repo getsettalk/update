@@ -98,4 +98,4 @@ Create Page    |
  - [ ] Change SDG (home page ) to graphix
 
 ### Rest Update 12 :
- - [x] Fixed Most UI in index page
+ - [x] Fixed Most UI in index page   <span style="color:green;">&#10004;</span>
