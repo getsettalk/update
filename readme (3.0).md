@@ -15,11 +15,11 @@ https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e8745
        * IMPACT AERAS <span style="color:green;">&#10004;</span>
        * How You Can Collaborate <span style="color:green;">&#10004;</span>
        * add also index page
-       * buttton add for contact
+       * buttton add for contact <span style="color:green;">&#10004;</span>
        
 
 ### Page 2
- - [ ] Support Page
+ - [x] Support Page
        
     Module   | Update logs
    ------------- | -------------
@@ -54,7 +54,7 @@ Create Page    |
  
 
 ### Page 4
- - [ ] JDF CLEAN GANGA PROJECT (Project)
+ - [x] JDF CLEAN GANGA PROJECT (Project) 
 
  - [x] * All Content <span style="color:green;">&#10004;</span>
      * Our Vision: <span style="color:green;">&#10004;</span>
@@ -86,7 +86,7 @@ Create Page    |
 
  
 ### Rest Update 8 
- * Add New Adderess
+ * Add New Adderess <span style="color:green;">&#10004;</span>
 
 ### Rest Update 9 
   - [x] * Remove Footer Content ( Managed By ) <span style="color:green;">&#10004;</span>
