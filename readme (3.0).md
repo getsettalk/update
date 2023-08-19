@@ -99,3 +99,6 @@ Create Page    |
 
 ### Rest Update 12 :
  - [x] Fixed Most UI in index page   <span style="color:green;">&#10004;</span>
+ 
+### Rest Update 13 :
+ - [x] Contact us page   <span style="color:green;">&#10004;</span> (19-08-2023)
