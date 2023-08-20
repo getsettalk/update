@@ -95,7 +95,7 @@ Create Page    |
 - [x] add navigation to home with logo <span style="color:green;">&#10004;</span>
 
 ### Rest Update 11 :
- - [ ] Change SDG (home page ) to graphix
+ - [ ] Change SDG (home page ) to graphix   <span style="color:green;">&#10004;</span>
 
 ### Rest Update 12 :
  - [x] Fixed Most UI in index page   <span style="color:green;">&#10004;</span>
