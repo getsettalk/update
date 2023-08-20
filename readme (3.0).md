@@ -97,8 +97,11 @@ Create Page    |
 ### Rest Update 11 :
  - [x] Change SDG (home page ) to graphix   <span style="color:green;">&#10004;</span>
 
-### Rest Update 12 :
+### Extra Rest Update 12 :
  - [x] Fixed Most UI in index page   <span style="color:green;">&#10004;</span>
  
-### Rest Update 13 :
+### Extra Rest Update 13 :
  - [x] Contact us page   <span style="color:green;">&#10004;</span> (19-08-2023)
+
+### Extra Rest Update 14 :
+- [x] Change old to new banner style (existing our centers posts)  <span style="color:green;">&#10004;</span>
