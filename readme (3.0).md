@@ -14,7 +14,7 @@ https://torpid-dress-544.notion.site/NEW-ADD-CORRECTION-ON-JDF-WEBSITE-ef79e8745
        * Our Approach: <span style="color:green;">&#10004;</span>
        * IMPACT AERAS <span style="color:green;">&#10004;</span>
        * How You Can Collaborate <span style="color:green;">&#10004;</span>
-       * add also index page
+       * add also index page <span style="color:green;">&#10004;</span>
        * buttton add for contact <span style="color:green;">&#10004;</span>
        
 
@@ -62,14 +62,13 @@ Create Page    |
      * Our Approach: <span style="color:green;">&#10004;</span>
      * Your Role in the Journey: <span style="color:green;">&#10004;</span>
      * Impact and Progress: <span style="color:green;">&#10004;</span>
-   * Add Image Slider Mannualy (10 )
-
+   
        
 ### Rest Update 5
    * Content
-       * Add Image and Content of Advisory Committee (5 )
+       * Add Image and Content of Advisory Committee (5 ) <span style="color:green;">&#10004;</span>
           * Write Custome Styles for Advisory Committee
-        * Add Image And Data State Coordinator (5)
+        * Add Image And Data State Coordinator (5) <span style="color:green;">&#10004;</span>
            * Write Custome Styles for This
 
 ### Rest Update 6
@@ -97,11 +96,26 @@ Create Page    |
 ### Rest Update 11 :
  - [x] Change SDG (home page ) to graphix   <span style="color:green;">&#10004;</span>
 
+--------------------------------------------------------------------------------------
 ### Extra Rest Update 12 :
  - [x] Fixed Most UI in index page   <span style="color:green;">&#10004;</span>
+ - [x] Fixed Styles with css  <span style="color:green;">&#10004;</span>
  
 ### Extra Rest Update 13 :
  - [x] Contact us page   <span style="color:green;">&#10004;</span> (19-08-2023)
+ - [x] Set Responsive Style and Add js  <span style="color:green;">&#10004;</span>
 
 ### Extra Rest Update 14 :
 - [x] Change old to new banner style (existing our centers posts)  <span style="color:green;">&#10004;</span>
+ - [x] Set Responsive Style and Add js  <span style="color:green;">&#10004;</span>
+- [x] Adjust with page ( for mobile and Laptop ) 
+- [x] Enable Js  <span style="color:green;">&#10004;</span>
+
+### Extra Rest Update 15 :
+- [x] Apply new image  <span style="color:green;">&#10004;</span>
+- [x] Set Style responsive   <span style="color:green;">&#10004;</span>
+
+
+##  Extra Rest Update 16 : Enable New Version for all old user 
+ <span style="color:green;">&#10004;</span>
+
